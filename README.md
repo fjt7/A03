@@ -1,5 +1,5 @@
 # A03
-Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
+## Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
 
 PART 1: Direction on Using Webstorm\
 Step 1: Create a **Github** account and set it up\
