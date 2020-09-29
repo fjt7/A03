@@ -9,10 +9,10 @@ Step 4: Go to Webstorm and press (Ctrl+ALt+S), go to version control, and enter 
 Step 5: Add Github Password by clicking on System Setting > Passwords\
 Step 6: Head over to Github and create a repository by clicking on the + sign\
 Step 7: Make sure to add a readme file\
-Alt to Step 6/ Step 8:Create a file on webstorm\
+Step 6/8:Create a file on webstorm\
 Step 9 :Select VCS from the menu and go to version control\
 Step 10: Edit the repository path and click clone\
-Step 11: You can now create any file\
+Step 11: Create a file\
 Step 12: Add files to Git and commit your changes\
 Step 13: Go to VCS to push changes\
 Step 14: Head over to your Github page to confirm the changes you made\
