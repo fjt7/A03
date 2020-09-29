@@ -1,8 +1,8 @@
 # A03
 Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
 
-PART 1: Direction on Using Webstorm
-Step 1: Creat a Github account and set it up
+PART 1: Direction on Using Webstorm\
+Step 1: Creat a Github account and set it up\
 Step 2: Install Git
 Step 3: Install Webstorm
 Step 4: Go to Webstorm and press (Ctrl+ALt+S), go to version control, and enter git path unless your OS can auto-detect
