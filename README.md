@@ -1,7 +1,7 @@
 # A03
-## Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
+## Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms.
 
-###PART 1: Direction on Using Webstorm\
+*PART 1: Direction on Using Webstorm*\
 Step 1: Create a **Github** account and set it up\
 Step 2: Install **Git**\
 Step 3: Install Webstorm\
@@ -18,7 +18,7 @@ Step 13: Go to VCS to **push** changes\
 Step 14: Head over to your Github page to confirm the changes you made\
 Step 15: You can choose the GitHub Page Location by selecting Master **Branch**\
 
-###PART 2: Glossary\
+*PART 2: Glossary*\
 **Branch** - Lists existing branches\
 **Clone** - Makes a Git repository copy from a remote source\
 **Commit** - Takes all of the changes written in the index\
